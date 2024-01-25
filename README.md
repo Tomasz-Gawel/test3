@@ -1,1 +1,1 @@
-# Przeciągnijij Foldery z plikami i procesuj !!!
+# Przeciągnij Foldery z plikami i procesuj !!!
