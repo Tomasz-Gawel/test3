@@ -1,1 +1,1 @@
-# test3
+# Przeciągnijij Foldery z plikami i procesuj !!!
